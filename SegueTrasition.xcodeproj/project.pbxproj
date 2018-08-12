@@ -14,6 +14,7 @@
 		672622DD2115435B00E869C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 672622DB2115435B00E869C5 /* LaunchScreen.storyboard */; };
 		672622E82115435B00E869C5 /* SegueTrasitionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672622E72115435B00E869C5 /* SegueTrasitionTests.swift */; };
 		672622F32115435B00E869C5 /* SegueTrasitionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672622F22115435B00E869C5 /* SegueTrasitionUITests.swift */; };
+		672623012115443E00E869C5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672623002115443E00E869C5 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		672622EE2115435B00E869C5 /* SegueTrasitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegueTrasitionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		672622F22115435B00E869C5 /* SegueTrasitionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueTrasitionUITests.swift; sourceTree = "<group>"; };
 		672622F42115435B00E869C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		672623002115443E00E869C5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				672622D92115435B00E869C5 /* Assets.xcassets */,
 				672622DB2115435B00E869C5 /* LaunchScreen.storyboard */,
 				672622DE2115435B00E869C5 /* Info.plist */,
+				672623002115443E00E869C5 /* SecondViewController.swift */,
 			);
 			path = SegueTrasition;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				672623012115443E00E869C5 /* SecondViewController.swift in Sources */,
 				672622D52115435200E869C5 /* ViewController.swift in Sources */,
 				672622D32115435200E869C5 /* AppDelegate.swift in Sources */,
 			);
